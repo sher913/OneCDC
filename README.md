@@ -2,7 +2,7 @@ Hi, friends. Please clone this repository to work on this.
 
 open your terminal and do the below code to start working
 ```
-git clone
+git clone https://github.com/atharshlakshmi/OneCDC
 cd OneCDC
 npm install
 
